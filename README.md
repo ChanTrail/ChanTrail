@@ -40,4 +40,4 @@
 
 ## 学习中
 
-[![My Studing Skills](https://skillicons.dev/icons?i=cs,cpp,python,unreal)](https://github.com/ChanTrail)
+[![My Studing Skills](https://skillicons.dev/icons?i=cs,cpp,python,unreal,rust)](https://github.com/ChanTrail)
