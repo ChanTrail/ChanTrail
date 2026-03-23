@@ -15,9 +15,9 @@
   
   <a href="https://github.com/ChanTrail">
       <picture>
-        <source alt="ChanTrail's GitHub Stats" src="https://github-readme-stats.chantrail.com/api/top-langs/?username=ChanTrail&layout=compact&theme=tokyonight&locale=cn&langs_count=8&theme=dark" media="(prefers-color-scheme: dark)" />
-        <source alt="ChanTrail's GitHub Stats" src="https://github-readme-stats.chantrail.com/api/top-langs/?username=ChanTrail&layout=compact&theme=tokyonight&locale=cn&langs_count=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.chantrail.com/api/top-langs/?username=ChanTrail&layout=compact&theme=tokyonight&locale=cn&langs_count=8" />
+        <source alt="ChanTrail's GitHub Stats" src="https://github-readme-stats.chantrail.com/api/top-langs/?username=ChanTrail&layout=compact&theme=tokyonight&locale=cn&langs_count=8&card_width=500&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source alt="ChanTrail's GitHub Stats" src="https://github-readme-stats.chantrail.com/api/top-langs/?username=ChanTrail&layout=compact&theme=tokyonight&locale=cn&langs_count=8&card_width=500" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.chantrail.com/api/top-langs/?username=ChanTrail&layout=compact&theme=tokyonight&locale=cn&langs_count=8&card_width=500" />
       </picture>
   </a>
 <p/>
