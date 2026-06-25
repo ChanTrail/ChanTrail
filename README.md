@@ -12,24 +12,11 @@
 
 ---
 
-# 循迹探源，向光而行</br>Trace the Source, Journey Toward Light
-
-
-## 🛠️ 技术栈 Tech Stack
-
-**已掌握 Proficient In**
+## 🛠️ 使用的技术栈 Used Tech Stack
 
 <p>
   <a href="https://github.com/ChanTrail">
-    <img src="https://skillicons.dev/icons?i=html,css,js,docker,linux,vscode,windows&theme=dark" />
-  </a>
-</p>
-
-**学习中 Currently Learning**
-
-<p>
-  <a href="https://github.com/ChanTrail">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,python,unreal,rust&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,docker,linux,vscode,windows,cs,cpp,python,unreal,rust&theme=dark" />
   </a>
 </p>
 
